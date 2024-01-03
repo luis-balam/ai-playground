@@ -1,0 +1,13 @@
+
+
+snowflake-sqlalchemy
+langchain
+llama-cpp-python
+torch
+python-dotenv
+snowflake-connector-python[pandas]
+huggingface_hub
+
+
+
+
